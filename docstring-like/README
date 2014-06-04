@@ -1,0 +1,2 @@
+use the define+doc-string remplacement for define and fetch docstring from
+(submod your-module doc-string)
